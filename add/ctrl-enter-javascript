@@ -1,0 +1,28 @@
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index:  text</p>
+<p>Filename: controllers/comments.php</p>
+<p>Line Number: 93</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index:  name</p>
+<p>Filename: controllers/comments.php</p>
+<p>Line Number: 96</p>
+
+</div><div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index:  mail</p>
+<p>Filename: controllers/comments.php</p>
+<p>Line Number: 97</p>
+
+</div><font color="red">Заполните правильно поля ввода!</font>
